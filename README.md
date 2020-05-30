@@ -25,3 +25,8 @@ YOUTUBE
 > Free Code Camp
 
 > Academind 
+
+#Python     
+httpshttpshttpshttps://dabeaz-course.github.io/practical-python/
+
+
