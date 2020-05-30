@@ -27,6 +27,6 @@ YOUTUBE
 > Academind 
 
 #Python     
-httpshttpshttpshttps://dabeaz-course.github.io/practical-python/
+https://dabeaz-course.github.io/practical-python/
 
 
