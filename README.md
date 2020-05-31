@@ -15,7 +15,7 @@ WEBSITES
 
 > read.humanjavascript.com
 
-
+https://realtoughcandy.com/javascript-resources/amp/#click=https://t.co/UCfDj19tn1
 
 YOUTUBE
 > Traversy Media
