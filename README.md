@@ -26,6 +26,8 @@ YOUTUBE
 
 > Academind 
 
+https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-30th-may-2020-1gfg
+
 #Python     
 https://dabeaz-course.github.io/practical-python/
 
