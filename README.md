@@ -31,4 +31,17 @@ https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-3
 #Python     
 https://dabeaz-course.github.io/practical-python/
 
+AWS Mock libraries
+
+http://docs.getmoto.org/en/latest/
+https://localstack.cloud/
+https://medium.com/manomano-tech/using-serverless-framework-localstack-to-test-your-aws-applications-locally-17748ffe6755
+https://github.com/nilan3/local-aws-spark-zeppelin-stack
+https://dev.to/maironmscosta/aws-lambda-with-localstack-32hc
+
+Spring Examples
+
+https://github.com/spring-cloud-samples/spring-cloud-contract-samples
+
+
 
